@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlmodel
+psycopg2-binary
+asyncpg
+passlib[bcrypt]
+python-jose[cryptography]
+celery[redis]
+redis
+flower
+aioredis==2.0.1
+aioredis
+celery
+aiohttp
+pydantic-settings
